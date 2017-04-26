@@ -1,0 +1,215 @@
+/*..........MQ..........*/
+
+/*..........940..........*/
+@media screen and (max-width: 940px) {
+    #menuToggle {
+        display: block;
+    }
+    
+    #menu {
+        display: block;
+    }
+    
+    header .trapezoid {
+        display: none;
+    }
+    
+    header img {
+        width: 5em;
+    }
+}
+
+
+/*..........860..........*/
+
+@media screen and (max-width: 860px) {
+    
+    #icon_section .icon_group {
+        margin: 0 6em
+    }
+    
+    .feature .trap-button {
+        align-self: flex-end;
+        margin-right: 3em;
+    }
+
+    footer ul, .socials {
+        padding-right: 3em;
+    }
+}
+
+
+/*..........770..........*/
+
+@media screen and (max-width: 770px) {
+    .feature .trap-button {
+        align-self: flex-end;
+        margin-right: 1em;
+    }
+    
+    .text-container h2 {
+        font-family: "Adam";
+        color: white;
+        font-size: 5em;
+        padding: .15em;
+    }
+    
+    .feature {
+        background-image: url(Images/NeonTable.jpg);
+        height: 400px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    footer ul, .socials {
+        padding-right: 5em;
+    }
+    
+   .links {
+       float: right;
+       width: 50%;
+    } 
+    
+    .image_1, .image_2, .image_3 {
+        height: 25em;
+    }
+}
+
+
+/*..........710..........*/
+
+@media screen and (max-width: 710px) {
+    
+    #icon_section .icon_group {
+        margin: 0 3em
+    }
+    
+    .feature .trap-button {
+        align-self: flex-end;
+        margin-right: 3em;
+    }
+    
+   footer ul, .socials {
+        padding-right: 2.4em;
+    }
+    
+    .image_1, .image_2, .image_3 {
+        height: 25em;
+    }
+}
+
+
+/*..........630..........*/
+
+@media screen and (max-width: 630px) {
+    
+    #icon_section .icon_group {
+        margin: 0 2em
+    }
+    
+    .feature .trap-button {
+        align-self: flex-end;
+        margin-right: 1em;
+    }
+    
+    .feature {
+        background-image: url(Images/NeonTable.jpg);
+        height: 300px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .links {
+       float: right;
+       width: 45%;
+    }
+    
+    .image_1, .image_2, .image_3 {
+        height: 20em;
+    }
+}
+
+
+/*..........575..........*/
+
+@media screen and (max-width: 570px) {
+    
+     .feature {
+        height: 220px;
+    }
+    
+    .text-container h2 {
+        font-size: 3em;
+        padding: .1em;
+    }
+    
+    .feature h3 {
+    border-bottom: 50px solid;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 80px;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+    
+    #icon_section .icon_group {
+        margin: 0 1em;
+    }
+    
+    .icon_tab {
+        width: 10em
+    }
+    
+    .icon_img {
+        width: 10em;
+    }
+    
+    .icon {
+        width: 10em;
+/*        margin: 0 auto;*/
+    }
+    
+    .button {
+        align-self: flex-end;
+        margin-left: .9em;
+    }
+    
+    .socials, footer ul {
+        padding-right: 0;
+    }
+
+   .links {
+       float: none;
+       width: 80%;
+       margin: 0 auto;
+    }
+
+    footer h1 {
+        margin: 0 auto;
+        display: block;
+        width: 80%;
+        text-align: center
+    }
+    
+    .image_1, .image_2, .image_3 {
+        height: 15em;
+    }
+}
+
+
+
+
+
+
+
+
+
+
